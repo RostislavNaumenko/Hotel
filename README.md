@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Course work №2
+
+My idea for this project was to improve the work of the cleaners in the hotel. I wanted to implement in this project a system of daily work, schedules for each employee, an admin panel should also be implemented with the addition of these works
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
